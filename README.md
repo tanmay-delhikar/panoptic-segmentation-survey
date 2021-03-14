@@ -1,2 +1,2 @@
-# panoptic-segmentation-survey
-Survey paper on Panoptic Segmentation
+# Survey paper on Panoptic Segmentation
+
